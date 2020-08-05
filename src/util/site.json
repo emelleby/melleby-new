@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Melleby Racing",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Personal site and blog for Eivind Melleby where I share some experiences and ideas about sailing in general. Made with ❤ by Myself.",
+    "siteUrl": "https://melleby.racing",
+    "image": "/assets/alex-zr48yvupk04-unsplash.jpg",
+    "twitterUsername": "@emelleby"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
