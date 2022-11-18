@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Character design
+title: Heading
 slug: /character-design
 date: 2020-05-23 23:40
 description: How to draw a character
@@ -24,8 +24,11 @@ Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soo
 
 * That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
 * We'll need to have a look inside you with this camera.
-* Fry! Quit doing the right thing, you jerk!
+
+
 
 Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
+
+A﻿dd some more text here
 
 Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
